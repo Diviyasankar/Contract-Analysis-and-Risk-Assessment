@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contract Analysis & Risk Assessment Bot</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 800px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+        h1 { color: #2c3e50; margin-bottom: 10px; font-size: 2.2rem; }
+        .subtitle { color: #7f8c8d; margin-bottom: 30px; font-size: 1.1rem; }
+        .badge {
+            display: inline-block;
+            background: #27ae60;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+            text-align: left;
+        }
+        .feature {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+        }
+        .feature h3 { color: #2c3e50; margin-bottom: 8px; font-size: 1rem; }
+        .feature p { color: #7f8c8d; font-size: 0.9rem; }
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .tech {
+            background: #ecf0f1;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: #2c3e50;
+        }
+        .cta {
+            margin-top: 30px;
+        }
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+        .footer {
+            margin-top: 30px;
+            color: #95a5a6;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <span class="badge">GUVI HCL Hackathon 2026</span>
+        <h1>📄 Contract Analysis & Risk Assessment Bot</h1>
+        <p class="subtitle">GenAI-powered Legal Assistant for Indian SMEs</p>
+
+        <div class="features">
+            <div class="feature">
+                <h3>📋 Contract Classification</h3>
+                <p>Automatically identify contract types - Employment, Vendor, Lease, Service, NDA & more</p>
+            </div>
+            <div class="feature">
+                <h3>⚠️ Risk Assessment</h3>
+                <p>Clause-level risk scoring with detection of penalties, indemnities, non-compete clauses</p>
+            </div>
+            <div class="feature">
+                <h3>🧠 AI-Powered Analysis</h3>
+                <p>GPT-4 integration for plain-language explanations and renegotiation suggestions</p>
+            </div>
+            <div class="feature">
+                <h3>🌐 Multilingual</h3>
+                <p>Supports English and Hindi contracts with automatic translation</p>
+            </div>
+        </div>
+
+        <h3 style="color: #2c3e50; margin-bottom: 15px;">Technology Stack</h3>
+        <div class="tech-stack">
+            <span class="tech">Python</span>
+            <span class="tech">Streamlit</span>
+            <span class="tech">spaCy</span>
+            <span class="tech">NLTK</span>
+            <span class="tech">OpenAI GPT-4</span>
+            <span class="tech">PyPDF2</span>
+        </div>
+
+        <div class="cta">
+            <a href="https://github.com" class="btn">View on GitHub</a>
+        </div>
+
+        <p class="footer">
+            Built with ❤️ for Indian SMEs<br>
+            © 2026 GUVI HCL Hackathon
+        </p>
+    </div>
+</body>
+</html>
