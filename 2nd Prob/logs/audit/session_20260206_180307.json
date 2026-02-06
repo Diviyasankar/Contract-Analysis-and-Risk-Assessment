@@ -1,0 +1,14 @@
+{
+  "session_id": "20260206_180307",
+  "start_time": "2026-02-06T18:03:07.853516",
+  "entries": [
+    {
+      "timestamp": "2026-02-06T18:03:07.853516",
+      "session_id": "20260206_180307",
+      "event_type": "session_start",
+      "data": {
+        "message": "Audit session started"
+      }
+    }
+  ]
+}

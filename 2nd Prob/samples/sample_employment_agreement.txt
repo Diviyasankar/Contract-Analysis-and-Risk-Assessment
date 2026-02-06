@@ -1,0 +1,154 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into as of January 15, 2024 ("Effective Date")
+
+BETWEEN:
+
+ABC Technologies Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at 123 Tech Park, Electronic City, Bangalore, Karnataka - 560100 (hereinafter referred to as "Employer" or "Company")
+
+AND
+
+Mr. Rahul Sharma, son of Mr. Vijay Sharma, residing at 45 Green Avenue, Koramangala, Bangalore, Karnataka - 560034 (hereinafter referred to as "Employee")
+
+RECITALS
+
+WHEREAS, the Employer is engaged in the business of software development and IT services; and
+
+WHEREAS, the Employee possesses skills and qualifications that the Employer desires to employ; and
+
+WHEREAS, both parties wish to enter into this Agreement setting forth the terms and conditions of employment.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the parties agree as follows:
+
+1. POSITION AND DUTIES
+
+1.1 The Employer hereby employs the Employee as "Senior Software Engineer" reporting to the Engineering Manager.
+
+1.2 The Employee shall perform all duties as assigned by the Employer and shall devote full working time and attention to the business of the Employer.
+
+1.3 The Employee shall not engage in any other employment or business activity without prior written consent of the Employer.
+
+2. TERM OF EMPLOYMENT
+
+2.1 The term of this Agreement shall commence on January 15, 2024 and shall continue for a period of two (2) years unless terminated earlier in accordance with the provisions of this Agreement.
+
+2.2 Upon expiration of the initial term, this Agreement shall automatically renew for successive one-year periods unless either party provides written notice of non-renewal at least 60 days prior to the expiration of the then-current term.
+
+3. COMPENSATION
+
+3.1 The Employer shall pay the Employee a monthly salary of Rs. 1,50,000 (Rupees One Lakh Fifty Thousand Only), subject to applicable tax deductions.
+
+3.2 The Employee shall be entitled to an annual performance bonus of up to Rs. 3,00,000 (Rupees Three Lakhs Only), at the sole discretion of the Employer.
+
+3.3 The Employer shall provide the following benefits:
+   (a) Provident Fund contribution as per statutory requirements
+   (b) Medical insurance coverage for Employee and immediate family
+   (c) 24 days of paid annual leave
+   (d) 12 days of sick leave per year
+
+4. CONFIDENTIALITY
+
+4.1 The Employee acknowledges that during employment, the Employee will have access to and become acquainted with Confidential Information belonging to the Employer.
+
+4.2 "Confidential Information" includes but is not limited to: trade secrets, client lists, business strategies, financial information, technical data, software code, and proprietary processes.
+
+4.3 The Employee shall not, during or after employment, disclose any Confidential Information to any person or entity without prior written consent of the Employer.
+
+4.4 This confidentiality obligation shall survive termination of this Agreement for a period of five (5) years.
+
+5. INTELLECTUAL PROPERTY
+
+5.1 All inventions, discoveries, developments, improvements, and works of authorship made or conceived by the Employee during employment shall be the sole and exclusive property of the Employer.
+
+5.2 The Employee hereby assigns to the Employer all rights, title, and interest in and to any intellectual property created during employment.
+
+5.3 The Employee agrees to execute any documents necessary to perfect the Employer's ownership of such intellectual property.
+
+6. NON-COMPETE AGREEMENT
+
+6.1 During employment and for a period of two (2) years following termination, the Employee shall not directly or indirectly:
+   (a) Engage in any business that competes with the Employer anywhere in India
+   (b) Solicit or attempt to solicit any customer or client of the Employer
+   (c) Recruit or attempt to recruit any employee of the Employer
+
+6.2 The Employee acknowledges that any violation of this clause will cause irreparable harm to the Employer and agrees that the Employer shall be entitled to injunctive relief.
+
+7. INDEMNIFICATION
+
+7.1 The Employee shall fully indemnify and hold harmless the Employer from and against any and all claims, damages, losses, costs, and expenses (including attorney fees) arising out of or related to:
+   (a) Any breach of this Agreement by the Employee
+   (b) Any negligent or wrongful act or omission by the Employee
+   (c) Any third-party claims arising from the Employee's actions
+
+8. TERMINATION
+
+8.1 The Employer may terminate this Agreement at any time, with or without cause, by providing 30 days written notice to the Employee.
+
+8.2 The Employer may terminate this Agreement immediately without notice for cause, including but not limited to:
+   (a) Gross misconduct or insubordination
+   (b) Breach of confidentiality obligations
+   (c) Conviction of any criminal offense
+   (d) Failure to perform assigned duties
+
+8.3 The Employee may terminate this Agreement by providing 90 days written notice to the Employer.
+
+8.4 Upon termination, the Employee shall:
+   (a) Return all company property, documents, and materials
+   (b) Delete all company data from personal devices
+   (c) Forfeit any unpaid bonuses or incentives
+
+9. DISPUTE RESOLUTION
+
+9.1 Any dispute arising out of or in connection with this Agreement shall be resolved through binding arbitration.
+
+9.2 The arbitration shall be conducted in accordance with the Arbitration and Conciliation Act, 1996.
+
+9.3 The seat of arbitration shall be Bangalore, Karnataka.
+
+9.4 The arbitration proceedings shall be conducted in English language.
+
+10. GOVERNING LAW
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of India.
+
+10.2 The courts of Bangalore, Karnataka shall have exclusive jurisdiction over any disputes.
+
+11. GENERAL PROVISIONS
+
+11.1 Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, and agreements.
+
+11.2 Amendment: This Agreement may only be amended in writing signed by both parties.
+
+11.3 Severability: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+11.4 Waiver: No waiver of any breach shall constitute a waiver of any other breach.
+
+11.5 Notices: All notices shall be in writing and delivered to the addresses set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+EMPLOYER:
+ABC Technologies Private Limited
+
+_______________________________
+Name: Mr. Rajesh Kumar
+Title: CEO
+Date: January 15, 2024
+
+EMPLOYEE:
+
+_______________________________
+Name: Mr. Rahul Sharma
+Date: January 15, 2024
+
+WITNESS 1:
+
+_______________________________
+Name:
+Address:
+
+WITNESS 2:
+
+_______________________________
+Name:
+Address:
